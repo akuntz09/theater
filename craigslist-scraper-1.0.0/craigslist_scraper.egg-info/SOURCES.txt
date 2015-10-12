@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+requirements.txt
+setup.py
+craigslist_scraper/__init__.py
+craigslist_scraper/scraper.py
+craigslist_scraper.egg-info/PKG-INFO
+craigslist_scraper.egg-info/SOURCES.txt
+craigslist_scraper.egg-info/dependency_links.txt
+craigslist_scraper.egg-info/requires.txt
+craigslist_scraper.egg-info/top_level.txt
+craigslist_scraper.egg-info/zip-safe
+tests/__init__.py
+tests/test_scraper.py
